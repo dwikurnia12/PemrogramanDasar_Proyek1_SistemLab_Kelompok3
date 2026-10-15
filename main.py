@@ -1,4 +1,4 @@
-from program.sistem import SistemLaboratorium
+from sistem import SistemLaboratorium
 
 
 def main():
